@@ -11,6 +11,8 @@ mlflow ui
 ## mlflow page
 ![main page](/img/mlflow_page.png)
 
+parameter를 확인하여 최적의 parameter를 선택
+
 ## mlflow plot
 ![threshold](/img/threshold.png)
 
